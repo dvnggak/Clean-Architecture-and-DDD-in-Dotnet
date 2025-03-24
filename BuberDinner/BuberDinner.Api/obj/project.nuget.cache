@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TMoeZ4tVGjI=",
+  "dgSpecHash": "KRmfUwkKm74=",
   "success": true,
   "projectFilePath": "D:\\dev\\learn-dotnet\\CleanArchitectureDDDFromScratch\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\90125146\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

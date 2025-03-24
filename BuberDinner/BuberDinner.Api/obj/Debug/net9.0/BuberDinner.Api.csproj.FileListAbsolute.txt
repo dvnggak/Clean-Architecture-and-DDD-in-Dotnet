@@ -37,3 +37,4 @@ D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Api\
 D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Api\bin\Debug\net9.0\BuberDinner.Application.pdb
 D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Api\bin\Debug\net9.0\BuberDinner.Infrastructure.pdb
 D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Api\bin\Debug\net9.0\BuberDinner.Domain.pdb
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
