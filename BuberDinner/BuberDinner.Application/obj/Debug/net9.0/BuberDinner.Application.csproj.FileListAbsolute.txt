@@ -1,0 +1,16 @@
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net9.0\BuberDinner.Application.deps.json
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net9.0\BuberDinner.Application.dll
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net9.0\BuberDinner.Application.pdb
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.AssemblyInfoInputs.cache
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.AssemblyInfo.cs
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.sourcelink.json
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.dll
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\refint\BuberDinner.Application.dll
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.pdb
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\ref\BuberDinner.Application.dll
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net9.0\BuberDinner.Domain.dll
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\bin\Debug\net9.0\BuberDinner.Domain.pdb
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.csproj.AssemblyReference.cache
+D:\dev\learn-dotnet\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDin.E7CA8231.Up2Date
