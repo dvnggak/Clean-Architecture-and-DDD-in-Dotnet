@@ -2,8 +2,8 @@ POST http://localhost:5210/api/authentication/register
 Content-Type: application/json
 
 {
-  "FirstName": "aksdfnkadsnf",
-  "LastName": "asdfkasnf1392049", 
-  "Email": "1@gmail.com",
-  "Password": "sdf"
+  "FirstName": "userWithToken",
+  "LastName": "lastNameWithToken", 
+  "Email": "token@gmail.com",
+  "Password": "tloken"
 }
